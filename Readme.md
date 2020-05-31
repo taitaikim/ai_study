@@ -2,3 +2,5 @@
 
 ## 1주차 과제
 - 인공지능사례분석  (https://github.com/taitaikim/ai_study/blob/master/ai_purpose.ipynb)
+## 2주차 과제
+- 2주차 과제 
